@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5e9323e-f461-431a-ae44-a3373d48869d" name="Default Changelist" comment="" />
+    <list default="true" id="c5e9323e-f461-431a-ae44-a3373d48869d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Task Ten.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +18,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1c0YoRa9Ise8Mix6sh4Tl4SnGnR" />
@@ -28,7 +38,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Task Eight">
+  <component name="RunManager" selected="Python.Task Ten">
     <configuration name="Task Eight" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice(Python&amp;Ladders)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -42,27 +52,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task Eight.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task Five" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice(Python&amp;Ladders)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task Five.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,13 +123,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task Ten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice(Python&amp;Ladders)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task Ten.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task Ten" />
         <item itemvalue="Python.Task Eight" />
         <item itemvalue="Python.Task Nine" />
         <item itemvalue="Python.Task Seven" />
         <item itemvalue="Python.Task Six" />
-        <item itemvalue="Python.Task Five" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589929287627</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add.">
+      <created>1589962194785</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589962194786</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add.">
+      <created>1589962234747</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589962234747</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -224,30 +248,30 @@
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
     <state x="1722" y="32" key="#Notifications/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589873309587" />
-    <state x="1715" y="69" key="CommitChangelistDialog2" timestamp="1589962194613">
+    <state x="1715" y="69" key="CommitChangelistDialog2" timestamp="1589962234631">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
-    <state x="1715" y="69" key="CommitChangelistDialog2/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589962194613" />
+    <state x="1715" y="69" key="CommitChangelistDialog2/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589962234631" />
     <state x="1715" y="66" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1366.692@1440.23.1366.692" timestamp="1589873567596" />
-    <state width="1343" height="168" key="GridCell.Tab.0.bottom" timestamp="1589929292798">
+    <state width="1343" height="168" key="GridCell.Tab.0.bottom" timestamp="1590045549655">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
-    <state width="1343" height="168" key="GridCell.Tab.0.bottom/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589929292798" />
+    <state width="1343" height="168" key="GridCell.Tab.0.bottom/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590045549655" />
     <state width="1343" height="210" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659143" />
-    <state width="1343" height="168" key="GridCell.Tab.0.center" timestamp="1589929292797">
+    <state width="1343" height="168" key="GridCell.Tab.0.center" timestamp="1590045549655">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
-    <state width="1343" height="168" key="GridCell.Tab.0.center/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589929292797" />
+    <state width="1343" height="168" key="GridCell.Tab.0.center/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590045549655" />
     <state width="1343" height="210" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659142" />
-    <state width="1343" height="168" key="GridCell.Tab.0.left" timestamp="1589929292797">
+    <state width="1343" height="168" key="GridCell.Tab.0.left" timestamp="1590045549654">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
-    <state width="1343" height="168" key="GridCell.Tab.0.left/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589929292797" />
+    <state width="1343" height="168" key="GridCell.Tab.0.left/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590045549654" />
     <state width="1343" height="210" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659142" />
-    <state width="1343" height="168" key="GridCell.Tab.0.right" timestamp="1589929292798">
+    <state width="1343" height="168" key="GridCell.Tab.0.right" timestamp="1590045549655">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
-    <state width="1343" height="168" key="GridCell.Tab.0.right/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589929292798" />
+    <state width="1343" height="168" key="GridCell.Tab.0.right/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590045549655" />
     <state width="1343" height="210" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659143" />
     <state width="1343" height="210" key="GridCell.Tab.1.bottom" timestamp="1589744142292">
       <screen x="1440" y="23" width="1366" height="745" />
@@ -269,10 +293,14 @@
     </state>
     <state width="1343" height="210" key="GridCell.Tab.1.right/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589744142292" />
     <state width="1343" height="210" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659144" />
-    <state x="1800" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1589962027403">
+    <state x="1722" y="107" key="Vcs.Push.Dialog.v2" timestamp="1589962414939">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
-    <state x="1800" y="213" key="com.intellij.ide.util.TipDialog/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589962027403" />
+    <state x="1722" y="107" key="Vcs.Push.Dialog.v2/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589962414939" />
+    <state x="1800" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1590044257845">
+      <screen x="1440" y="23" width="1366" height="745" />
+    </state>
+    <state x="1800" y="213" key="com.intellij.ide.util.TipDialog/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590044257845" />
     <state x="1800" y="199" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742675208" />
     <state x="1911" y="291" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589962181212">
       <screen x="1440" y="23" width="1366" height="745" />
