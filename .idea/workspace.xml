@@ -34,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager" selected="Python.Task Twenty-Two">
     <configuration name="Task Eighteen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -262,10 +263,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="Add." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1722" y="32" key="#Notifications" timestamp="1589873309587">
+    <state x="1722" y="32" key="#Notifications" timestamp="1590257185107">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
     <state x="1722" y="32" key="#Notifications/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589873309587" />
+    <state x="1722" y="32" key="#Notifications/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257185107" />
     <state x="1715" y="69" key="CommitChangelistDialog2" timestamp="1590256325400">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
@@ -320,11 +322,15 @@
     <state width="1343" height="210" key="GridCell.Tab.1.right/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589744142292" />
     <state width="1343" height="210" key="GridCell.Tab.1.right/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590255902541" />
     <state width="1343" height="210" key="GridCell.Tab.1.right/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659144" />
-    <state x="1722" y="107" key="Vcs.Push.Dialog.v2" timestamp="1590256334299">
+    <state x="1631" y="23" key="SettingsEditor" timestamp="1590257078544">
+      <screen x="1440" y="23" width="1366" height="745" />
+    </state>
+    <state x="1631" y="23" key="SettingsEditor/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257078544" />
+    <state x="1722" y="107" key="Vcs.Push.Dialog.v2" timestamp="1590257174306">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
     <state x="1722" y="107" key="Vcs.Push.Dialog.v2/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049231907" />
-    <state x="1722" y="107" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590256334299" />
+    <state x="1722" y="107" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257174306" />
     <state x="1800" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1590252954862">
       <screen x="1440" y="23" width="1366" height="745" />
     </state>
