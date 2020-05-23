@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5e9323e-f461-431a-ae44-a3373d48869d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Task Eighteen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Fourteen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Nineteen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Seventeen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Sixteen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Thirteen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Twelve.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Twenty One.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Twenty-Two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task Twenty.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -258,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590049014573</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add.">
+      <created>1590256325538</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590256325538</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
