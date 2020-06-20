@@ -425,10 +425,10 @@
     <state x="1722" y="9" key="#Notifications/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1590315389220" />
     <state x="1722" y="32" key="#Notifications/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1589873309587" />
     <state x="1722" y="32" key="#Notifications/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257185107" />
-    <state x="1715" y="47" key="CommitChangelistDialog2" timestamp="1590701544389">
+    <state x="1715" y="47" key="CommitChangelistDialog2" timestamp="1592684984344">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state x="1715" y="47" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1590701544389" />
+    <state x="1715" y="47" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592684984344" />
     <state x="1715" y="69" key="CommitChangelistDialog2/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049014478" />
     <state x="1715" y="69" key="CommitChangelistDialog2/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590256325400" />
     <state x="1715" y="47" key="CommitChangelistDialog2/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1590580324524" />
@@ -522,10 +522,10 @@
     </state>
     <state x="1631" y="0" key="SettingsEditor/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1590315473102" />
     <state x="1631" y="23" key="SettingsEditor/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257078544" />
-    <state x="1722" y="87" key="Vcs.Push.Dialog.v2" timestamp="1592684975507">
+    <state x="1722" y="87" key="Vcs.Push.Dialog.v2" timestamp="1592684994594">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state x="1722" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592684975507" />
+    <state x="1722" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592684994594" />
     <state x="1722" y="107" key="Vcs.Push.Dialog.v2/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049231907" />
     <state x="1722" y="107" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257174306" />
     <state x="1800" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1592514299299">
