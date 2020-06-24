@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c5e9323e-f461-431a-ae44-a3373d48869d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Data Type/Task Hundred-fourteen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Data Type/Task Hundred-fourteen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Data Type/Task Hundred-five.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Data Type/Task Hundred-five.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Data Type/Task Ninety-five.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Data Type/Task Ninety-five.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
       <recent name="$PROJECT_DIR$/Numpy" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Task Hundred-fifteen">
+  <component name="RunManager" selected="Python.Task Hundred-five">
     <configuration name="Task Hundred-fifteen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice(Python&amp;Ladders)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,6 +77,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Task Hundred-five" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonPractice(Python&amp;Ladders)" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Data Type" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Data Type/Task Hundred-five.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Task Hundred-fourteen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonPractice(Python&amp;Ladders)" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,27 +111,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Data Type/Task Hundred-fourteen.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Task Hundred-twelve" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonPractice(Python&amp;Ladders)" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Data Type" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Data Type/Task Hundred-twelve.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task Hundred-five" />
+        <item itemvalue="Python.Task Ninety-five" />
         <item itemvalue="Python.Task Hundred-fifteen" />
         <item itemvalue="Python.Task Hundred-fourteen" />
-        <item itemvalue="Python.Task Ninety-five" />
         <item itemvalue="Python.Task Hundred-two" />
-        <item itemvalue="Python.Task Hundred-twelve" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +336,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592769370041</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add.">
+      <created>1592932305447</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1592932305447</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -355,52 +363,52 @@
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
     <state x="1586" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592930860145" />
-    <state x="1715" y="47" key="CommitChangelistDialog2" timestamp="1592769369621">
+    <state x="1715" y="47" key="CommitChangelistDialog2" timestamp="1592932305103">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
     <state x="1715" y="47" key="CommitChangelistDialog2/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592769369621" />
     <state x="1715" y="69" key="CommitChangelistDialog2/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049014478" />
     <state x="1715" y="69" key="CommitChangelistDialog2/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590256325400" />
-    <state x="1715" y="47" key="CommitChangelistDialog2/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1590580324524" />
+    <state x="1715" y="47" key="CommitChangelistDialog2/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592932305103" />
     <state x="1715" y="66" key="CommitChangelistDialog2/0.23.1440.877/1440.23.1366.692@1440.23.1366.692" timestamp="1589873567596" />
-    <state width="1343" height="199" key="GridCell.Tab.0.bottom" timestamp="1592932285074">
+    <state width="1343" height="199" key="GridCell.Tab.0.bottom" timestamp="1593027640736">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592932285074" />
+    <state width="1343" height="199" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1593027640736" />
     <state width="1343" height="168" key="GridCell.Tab.0.bottom/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049144520" />
     <state width="1343" height="168" key="GridCell.Tab.0.bottom/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257411459" />
     <state width="1343" height="254" key="GridCell.Tab.0.bottom/0.23.1440.877/-1366.23.1366.745@-1366.23.1366.745" timestamp="1591537102793" />
-    <state width="1343" height="273" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592848174330" />
+    <state width="1343" height="199" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592932679141" />
     <state width="1343" height="210" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659143" />
     <state width="1343" height="273" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.23.1366.745@1440.23.1366.745" timestamp="1592125721861" />
-    <state width="1343" height="199" key="GridCell.Tab.0.center" timestamp="1592932285072">
+    <state width="1343" height="199" key="GridCell.Tab.0.center" timestamp="1593027640734">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="199" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592932285072" />
+    <state width="1343" height="199" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1593027640734" />
     <state width="1343" height="168" key="GridCell.Tab.0.center/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049144519" />
     <state width="1343" height="168" key="GridCell.Tab.0.center/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257411458" />
     <state width="1343" height="254" key="GridCell.Tab.0.center/0.23.1440.877/-1366.23.1366.745@-1366.23.1366.745" timestamp="1591537102792" />
-    <state width="1343" height="273" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592848174328" />
+    <state width="1343" height="199" key="GridCell.Tab.0.center/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592932679140" />
     <state width="1343" height="210" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659142" />
     <state width="1343" height="273" key="GridCell.Tab.0.center/0.23.1440.877/1440.23.1366.745@1440.23.1366.745" timestamp="1592125721858" />
-    <state width="1343" height="199" key="GridCell.Tab.0.left" timestamp="1592932285071">
+    <state width="1343" height="199" key="GridCell.Tab.0.left" timestamp="1593027640733">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="199" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592932285071" />
+    <state width="1343" height="199" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1593027640733" />
     <state width="1343" height="168" key="GridCell.Tab.0.left/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049144518" />
     <state width="1343" height="168" key="GridCell.Tab.0.left/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257411458" />
     <state width="1343" height="254" key="GridCell.Tab.0.left/0.23.1440.877/-1366.23.1366.745@-1366.23.1366.745" timestamp="1591537102792" />
-    <state width="1343" height="273" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592848174327" />
+    <state width="1343" height="199" key="GridCell.Tab.0.left/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592932679139" />
     <state width="1343" height="210" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659142" />
     <state width="1343" height="273" key="GridCell.Tab.0.left/0.23.1440.877/1440.23.1366.745@1440.23.1366.745" timestamp="1592125720306" />
-    <state width="1343" height="199" key="GridCell.Tab.0.right" timestamp="1592932285073">
+    <state width="1343" height="199" key="GridCell.Tab.0.right" timestamp="1593027640735">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state width="1343" height="199" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592932285073" />
+    <state width="1343" height="199" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1593027640735" />
     <state width="1343" height="168" key="GridCell.Tab.0.right/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049144519" />
     <state width="1343" height="168" key="GridCell.Tab.0.right/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257411458" />
     <state width="1343" height="254" key="GridCell.Tab.0.right/0.23.1440.877/-1366.23.1366.745@-1366.23.1366.745" timestamp="1591537102793" />
-    <state width="1343" height="273" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592848174329" />
+    <state width="1343" height="199" key="GridCell.Tab.0.right/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592932679141" />
     <state width="1343" height="210" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1366.690@1440.23.1366.690" timestamp="1589742659143" />
     <state width="1343" height="273" key="GridCell.Tab.0.right/0.23.1440.877/1440.23.1366.745@1440.23.1366.745" timestamp="1592125721860" />
     <state width="1343" height="273" key="GridCell.Tab.1.bottom" timestamp="1592848174334">
@@ -452,16 +460,17 @@
     </state>
     <state x="1631" y="0" key="SettingsEditor/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1590315473102" />
     <state x="1631" y="23" key="SettingsEditor/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257078544" />
-    <state x="1722" y="87" key="Vcs.Push.Dialog.v2" timestamp="1592769377355">
+    <state x="1722" y="87" key="Vcs.Push.Dialog.v2" timestamp="1592932313069">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
     <state x="1722" y="87" key="Vcs.Push.Dialog.v2/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592769377355" />
     <state x="1722" y="107" key="Vcs.Push.Dialog.v2/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049231907" />
     <state x="1722" y="107" key="Vcs.Push.Dialog.v2/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590257174306" />
-    <state x="1800" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1592928909491">
+    <state x="1722" y="87" key="Vcs.Push.Dialog.v2/0.23.1440.877/1440.0.1366.768@1440.0.1366.768" timestamp="1592932313069" />
+    <state x="1800" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1593024605841">
       <screen x="1440" y="0" width="1366" height="768" />
     </state>
-    <state x="1800" y="196" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1592928909491" />
+    <state x="1800" y="196" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.0.1366.768@1440.0.1366.768" timestamp="1593024605841" />
     <state x="1800" y="213" key="com.intellij.ide.util.TipDialog/0.23.1440.822/1440.23.1366.745@1440.23.1366.745" timestamp="1590049221788" />
     <state x="1800" y="213" key="com.intellij.ide.util.TipDialog/0.23.1440.826/1440.23.1366.745@1440.23.1366.745" timestamp="1590252954862" />
     <state x="-1006" y="213" key="com.intellij.ide.util.TipDialog/0.23.1440.877/-1366.23.1366.745@-1366.23.1366.745" timestamp="1591537121677" />
