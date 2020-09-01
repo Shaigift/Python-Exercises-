@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/PracticePythonDataTypeProblems.iml" filepath="$PROJECT_DIR$/.idea/PracticePythonDataTypeProblems.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonPractice(Python&amp;Ladders).iml" filepath="$PROJECT_DIR$/.idea/PythonPractice(Python&amp;Ladders).iml" />
+>>>>>>> 3986742fc88c8430b301fa13235a82375c110d88
     </modules>
   </component>
 </project>

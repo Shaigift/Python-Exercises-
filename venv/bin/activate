@@ -37,7 +37,11 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 VIRTUAL_ENV="/Users/mphoshai/PycharmProjects/PracticePythonDataTypeProblems/venv"
+=======
+VIRTUAL_ENV="/Users/mphoshai/PycharmProjects/PythonPractice(Python&Ladders)/venv"
+>>>>>>> 3986742fc88c8430b301fa13235a82375c110d88
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
