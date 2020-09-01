@@ -1,0 +1,6 @@
+def SumOfNumbers(numbers):
+    list = 0
+    for x in numbers:
+        list += x;
+    return list
+print(SumOfNumbers([1,2,3,4]))
